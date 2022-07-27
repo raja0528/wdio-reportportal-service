@@ -13,7 +13,7 @@ The easiest way is to keep `wdio-reportportal-service` as a devDependency in you
 You can do it by:
 
 ```bash
-npm install wdio-reportportal-reporter --save-dev
+npm install wdio-reportportal-service --save-dev
 ```
 
 Instructions on how to install `WebdriverIO` can be found [here](http://webdriver.io/guide/getstarted/install.html).
